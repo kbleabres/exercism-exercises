@@ -89,3 +89,7 @@ To include color from the command line:
 ## Source
 
 Wikipedia [http://en.wikipedia.org/wiki/There_Was_an_Old_Lady_Who_Swallowed_a_Fly](http://en.wikipedia.org/wiki/There_Was_an_Old_Lady_Who_Swallowed_a_Fly)
+
+## Solution examples
+- https://exercism.io/tracks/ruby/exercises/food-chain/solutions/7d98b41371be415793224a650ade6c05
+- https://exercism.io/tracks/ruby/exercises/food-chain/solutions/7c418d53ebe040a1a0b2a427617429fb
